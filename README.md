@@ -1,6 +1,6 @@
 # curriculum-databases-projects-template
 
-> The Celestial Bodies project aims to create a comprehensive database for celestial objects within the universe, including stars, galaxies, planets, and moons. By centralizing data on these celestial bodies, the project facilitates research, exploration, and education in the field of astronomy.
+> Script to retrieve information about chemical elements from a periodic table database using Bash.
 
 
 ## Getting Started
