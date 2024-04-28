@@ -2,12 +2,11 @@
 
 > Script to retrieve information about chemical elements from a periodic table database using Bash.
 
-
 ## Getting Started
 
 This repository includes file with plain SQL that can be used to recreate a database:
 
-- Use [universe.sql](./periodic_table.sql) to create all tables and populate them
+- Use [periodic_table.sql](./periodic_table.sql) to create all tables and populate them
 
 ## Author
 
